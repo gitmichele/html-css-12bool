@@ -1,1 +1,21 @@
+/* REGOLE GENERALI */
 
+[class*="col-"]{
+    background-color: #FF000050;
+    height: 200px;
+    border: 1px solid black;
+    line-height: 200px;
+    text-align: center;
+}
+
+
+/* FOOTER*/
+
+footer .nested div{
+    height: 190px;
+    border: 1px solid white;
+}
+
+footer .nested{
+    padding: 5px
+}
