@@ -11,12 +11,12 @@
 
 /* FOOTER*/
 
-footer .nested div{
+footer .col-6 > .row div{
     height: 190px;
-    line-height: 190px;
+    line-height: inherit;
     border: 1px solid white;
 }
 
-footer .nested{
+footer .col-6 > .row{
     padding: 5px
 }
